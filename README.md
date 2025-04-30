@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rao Pendyala</h1>
-<h3 align="center">A passionate DevOps Engineer from United States</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 📫 How to reach me **nikhilrao.pendyal@sus.edu**
 
