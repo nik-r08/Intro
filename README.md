@@ -4,6 +4,7 @@
 - 📫 How to reach me **nikhilrao.pendyal@sus.edu**
 
 <h3 align="left">Connect with me:</h3>
+www.linkedin.com/in/nikhil-rao-9803341aa
 <p align="left">
 </p>
 
