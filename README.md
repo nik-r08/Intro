@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rao Pendyala</h1>
-<h3 align="center">A passionate AI/ML Engineer</h3>
 
 # 💫 About Me:
-I'm currently working as a AI/ML Engineer.<br>I'm currently learning about LLM's.<br>I'm currently interested in building Agentic AI systems.<br>Recently I have built an AI Email Assistant as an Web Extension.
+I'm currently working as a Software Solutions Dev Engineer.<br>I'm currently learning about LLM's.<br>I'm currently interested in building Agentic AI systems.<br>Recently I have built an AI Email Assistant as an Web Extension.
 
 
 ## 🌐 Socials:
